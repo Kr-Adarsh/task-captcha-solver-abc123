@@ -5,7 +5,7 @@
 This app solves captchas automatically.
 
 ## Live Demo
-https://username.github.io/test-task/
+https://kr-adarsh.github.io/test-task/
 
 ## License
 MIT License
